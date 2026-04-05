@@ -1,6 +1,6 @@
 <!-- table with cell centered image -->
 <p align="center">
-  <img src="./meancomputer.png" alt="Artemis Watch" width="300">
+  <img src="./artemis.png" alt="Artemis Watch" width="700">
 </p>
 
 
