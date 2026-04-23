@@ -1,6 +1,6 @@
 <!-- table with cell centered image -->
 <p align="center">
-  <img src="./artemis.webp" alt="Artemis Watch" width="700">
+  <img src="https://raw.githubusercontent.com/artemis-watch/.github/refs/heads/master/profile/artemis.webp" alt="Artemis Watch" width="700">
 </p>
 
 
